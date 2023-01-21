@@ -3,6 +3,9 @@
 Projeto desenvolvido na "Next Level Week" da Rocketseat utilizando-se de HTML5, CSS3 e JavaScript. 
 No projeto será possível cadastrar hábitos e salvar localmente no navegador.
 
+- [Inscreva-se e saiba mais!](https://app.rocketseat.com.br/)
+
+- [Link para o projeto](https://acgoularthub.github.io/Next-Level-Week-Habits/)
 ## Como executar
 
 Para executar o projeto, basta abrir o arquivo `index.html` no seu navegador.
