@@ -41,6 +41,15 @@ button {
   color: white;
 }
 
+button:hover {
+  cursor: pointer;
+  background-color: #6f31ff;
+}
+
+input:hover {
+  cursor: pointer;
+}
+
 #form-habits {
   display: flex;
 
